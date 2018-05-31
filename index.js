@@ -1,3 +1,2 @@
-parseInt('2',10);
-
-console.log(parseInt('nonsense!',10));
+a = Math.floor(Math.random*1000)
+b = Math.floor(Math.random*1000)
