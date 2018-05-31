@@ -1,2 +1,3 @@
-parseInt('2',10)
-parseInt('nonsense!',10)
+parseInt('2',10);
+
+console.log(parseInt('nonsense!',10));
